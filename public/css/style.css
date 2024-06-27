@@ -1,0 +1,52 @@
+
+#login{
+    background: linear-gradient(120deg, #4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
+}
+
+.text-login{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.coins{
+    position: absolute;
+    bottom: 100px;
+}
+
+.button-login{
+    border-radius: 10px;
+    background-image: -webkit-linear-gradient(left, #4e0070, #992FD7); 
+    color: #ffffff;
+    width: 50%;
+    margin: 0 25%;
+}
+
+.button-login:hover{
+    background-image: -webkit-linear-gradient(left, #264676, #4c79d3); 
+    color: #ffffff;
+}
+
+.link-default{
+    color: #4e0070;
+    cursor: pointer;
+}
+
+.link-default:hover{
+    color: #4c79d3;
+}
+
+.button-default{
+    border-radius: 10px;
+    background-image: -webkit-linear-gradient(left, #4e0070, #992FD7);
+    color: #ffffff;
+}
+.button-default:hover{
+    background-image: -webkit-linear-gradient(left, #264676, #4c79d3); 
+    color: #ffffff;
+}
+
+.button-cancel{
+    border-radius: 10px;
+    
+}
